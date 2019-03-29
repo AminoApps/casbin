@@ -21,9 +21,9 @@ import (
 	"os"
 	"strings"
 
-	"github.com/casbin/casbin/model"
-	"github.com/casbin/casbin/persist"
-	"github.com/casbin/casbin/util"
+	"github.com/AminoApps/casbin/model"
+	"github.com/AminoApps/casbin/persist"
+	"github.com/AminoApps/casbin/util"
 )
 
 // Adapter is the file adapter for Casbin.

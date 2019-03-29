@@ -18,9 +18,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/casbin/casbin/config"
-	"github.com/casbin/casbin/log"
-	"github.com/casbin/casbin/util"
+	"github.com/AminoApps/casbin/config"
+	"github.com/AminoApps/casbin/log"
+	"github.com/AminoApps/casbin/util"
 )
 
 // Model represents the whole access control model.

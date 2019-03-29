@@ -17,7 +17,7 @@ package casbin
 import (
 	"testing"
 
-	"github.com/casbin/casbin/util"
+	"github.com/AminoApps/casbin/util"
 )
 
 func testGetRoles(t *testing.T, e *Enforcer, name string, res []string) {

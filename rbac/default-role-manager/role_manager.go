@@ -18,8 +18,8 @@ import (
 	"errors"
 	"sync"
 
-	"github.com/casbin/casbin/log"
-	"github.com/casbin/casbin/rbac"
+	"github.com/AminoApps/casbin/log"
+	"github.com/AminoApps/casbin/rbac"
 )
 
 type MatchingFunc func(arg1, arg2 string) bool

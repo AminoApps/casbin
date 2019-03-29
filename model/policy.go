@@ -15,9 +15,9 @@
 package model
 
 import (
-	"github.com/casbin/casbin/log"
-	"github.com/casbin/casbin/rbac"
-	"github.com/casbin/casbin/util"
+	"github.com/AminoApps/casbin/log"
+	"github.com/AminoApps/casbin/rbac"
+	"github.com/AminoApps/casbin/util"
 )
 
 // BuildRoleLinks initializes the roles in RBAC.

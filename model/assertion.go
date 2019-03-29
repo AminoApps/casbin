@@ -18,8 +18,8 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/casbin/casbin/log"
-	"github.com/casbin/casbin/rbac"
+	"github.com/AminoApps/casbin/log"
+	"github.com/AminoApps/casbin/rbac"
 )
 
 // Assertion represents an expression in a section of the model.
